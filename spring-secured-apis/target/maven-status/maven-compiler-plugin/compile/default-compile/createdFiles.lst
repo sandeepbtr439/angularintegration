@@ -1,0 +1,7 @@
+com/example/security/PasswordConfig.class
+com/example/security/ApplicationUserPermission/ApplicationUserPermission.class
+com/example/security/Security.class
+com/example/security/ApplicationUserRole/ApplicationUserRole.class
+com/example/security/StudentController.class
+com/example/security/ApplicationSecurityConfig/ApplicationSecurityConfig.class
+com/example/security/Student.class
